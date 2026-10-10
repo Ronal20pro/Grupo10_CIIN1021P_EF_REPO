@@ -99,7 +99,7 @@ Asimismo, se utilizaron Python para el proceso ETL, MongoDB para el trabajo con 
 
 **Grupo:** 10
 
-**Curso:** Base de Datos Avanzadas y Big Data
+**Curso:** Base de Datos Avanzada y Big Data
 
 **Evaluación:** Evaluación Final (EF)
 
