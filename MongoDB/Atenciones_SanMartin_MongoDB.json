@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda0"
+  },
+  "Id_Atencion": {
+    "$numberLong": "1"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "32185",
+  "NOMBRE_ESTABLECIMIENTO": "HOGAR PROTEGIDO MOYOBAMBA",
+  "PROVINCIA": "MOYOBAMBA",
+  "DISTRITO": "MOYOBAMBA",
+  "SEXO": "F",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 2
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda1"
+  },
+  "Id_Atencion": {
+    "$numberLong": "2"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "32185",
+  "NOMBRE_ESTABLECIMIENTO": "HOGAR PROTEGIDO MOYOBAMBA",
+  "PROVINCIA": "MOYOBAMBA",
+  "DISTRITO": "MOYOBAMBA",
+  "SEXO": "F",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 2
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda2"
+  },
+  "Id_Atencion": {
+    "$numberLong": "3"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "32185",
+  "NOMBRE_ESTABLECIMIENTO": "HOGAR PROTEGIDO MOYOBAMBA",
+  "PROVINCIA": "MOYOBAMBA",
+  "DISTRITO": "MOYOBAMBA",
+  "SEXO": "M",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 2
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda3"
+  },
+  "Id_Atencion": {
+    "$numberLong": "4"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "32185",
+  "NOMBRE_ESTABLECIMIENTO": "HOGAR PROTEGIDO MOYOBAMBA",
+  "PROVINCIA": "MOYOBAMBA",
+  "DISTRITO": "MOYOBAMBA",
+  "SEXO": "M",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 2
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda4"
+  },
+  "Id_Atencion": {
+    "$numberLong": "5"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "29371",
+  "NOMBRE_ESTABLECIMIENTO": "CENTRO AMERICA - SAN PABLO",
+  "PROVINCIA": "BELLAVISTA",
+  "DISTRITO": "SAN PABLO",
+  "SEXO": "F",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 1
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda5"
+  },
+  "Id_Atencion": {
+    "$numberLong": "6"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "6507",
+  "NOMBRE_ESTABLECIMIENTO": "FAUSA SAPINA",
+  "PROVINCIA": "BELLAVISTA",
+  "DISTRITO": "SAN PABLO",
+  "SEXO": "M",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 1
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda6"
+  },
+  "Id_Atencion": {
+    "$numberLong": "7"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "6507",
+  "NOMBRE_ESTABLECIMIENTO": "FAUSA SAPINA",
+  "PROVINCIA": "BELLAVISTA",
+  "DISTRITO": "SAN PABLO",
+  "SEXO": "F",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 1
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda7"
+  },
+  "Id_Atencion": {
+    "$numberLong": "8"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "6508",
+  "NOMBRE_ESTABLECIMIENTO": "SAN PABLO",
+  "PROVINCIA": "BELLAVISTA",
+  "DISTRITO": "SAN PABLO",
+  "SEXO": "M",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 1
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda8"
+  },
+  "Id_Atencion": {
+    "$numberLong": "9"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "6509",
+  "NOMBRE_ESTABLECIMIENTO": "DOS DE MAYO",
+  "PROVINCIA": "BELLAVISTA",
+  "DISTRITO": "SAN PABLO",
+  "SEXO": "F",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 1
+},
+{
+  "_id": {
+    "$oid": "6ac72ee82e285527764ddda9"
+  },
+  "Id_Atencion": {
+    "$numberLong": "10"
+  },
+  "ANIO": 2023,
+  "MES": 1,
+  "DIA": 1,
+  "CODIGO_UNICO": "6509",
+  "NOMBRE_ESTABLECIMIENTO": "DOS DE MAYO",
+  "PROVINCIA": "BELLAVISTA",
+  "DISTRITO": "SAN PABLO",
+  "SEXO": "F",
+  "ATENDIDOS": 0,
+  "ATENCIONES": 1
+}]
